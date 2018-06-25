@@ -13,5 +13,10 @@
     "react"
   ],
   "author": "Georgina Hoagland",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "babel-eslint": "^8.2.5",
+    "eslint": "^5.0.0",
+    "eslint-plugin-react": "^7.10.0"
+  },
 }
